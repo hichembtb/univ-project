@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1056592007485",
+    "project_id": "sicoder",
+    "storage_bucket": "sicoder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056592007485:android:4b201e3abdda01ac2b7554",
+        "android_client_info": {
+          "package_name": "com.example.si_coder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056592007485-4fdmkvpap8cfjki9hubej30rajp6ulct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.si_coder",
+            "certificate_hash": "fe6568d4388060c63bf70df82ea7a172af4f9acd"
+          }
+        },
+        {
+          "client_id": "1056592007485-tm4t2u52qaic6vbelm1lfr3p9dg6uuei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrggZpog_LzubUP-0KYNYObE3fH2n6kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056592007485-tm4t2u52qaic6vbelm1lfr3p9dg6uuei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
